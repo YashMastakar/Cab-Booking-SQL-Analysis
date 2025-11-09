@@ -65,11 +65,11 @@ This section contains snapshots of the database tables used and the SQL queries 
 
 | Table Name | Screenshot Tag (Reference Page) |
 | :--- | :--- |
-| `Bookings` | `` (Page 3) |
-| `Customers` | `` (Page 4) |
-| `Cabs` | `` (Page 5) |
-| `Drivers` | `` (Page 6) |
-| `TripDetails` | `` (Page 7) |
+| `Bookings` | [Link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Table%201.png) |
+| `Customers` | [Link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Table%202.png) |
+| `Cabs` | [Link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Table%203.png) |
+| `Drivers` | [Link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Table%204.png) |
+| `TripDetails` | [Link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Table%205.png) |
 
 ### **B. Questions and Queries**
 
