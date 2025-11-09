@@ -76,7 +76,7 @@ This section contains snapshots of the database tables used and the SQL queries 
 | Problem Area | Business Question | Query & Result Snapshot Tag   |
 | :--- | :--- | :--- |
 | **Customer Analysis** | Q1: Customers who completed the most bookings. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_1%262.png) |
-| | Q3: Busiest day of the week for bookings. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_3%264.png) |
+| | Q2: Busiest day of the week for bookings. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_3%264.png) |
 | **Driver Performance** | Q1: Drivers with an average rating below 3.0. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_3%264.png) |
 | | Q2: Top 5 drivers with the longest trips by distance. |  [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_5%266.png) |
 | | Q3: Drivers with a high percentage of canceled trips. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_5%266.png) |
