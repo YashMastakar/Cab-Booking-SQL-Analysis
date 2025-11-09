@@ -63,7 +63,7 @@ This section contains snapshots of the database tables used and the SQL queries 
 
 ### **A. Database Tables**
 
-| Table Name | Screenshot Tag (Reference Page) |
+| Table Name | Snapshot Tag |
 | :--- | :--- |
 | `Bookings` | [Link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Table%201.png) |
 | `Customers` | [Link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Table%202.png) |
@@ -73,18 +73,18 @@ This section contains snapshots of the database tables used and the SQL queries 
 
 ### **B. Questions and Queries**
 
-| Problem Area | Business Question | Query & Result Screenshot Tag (Reference Page) |
+| Problem Area | Business Question | Query & Result Snapshot Tag   |
 | :--- | :--- | :--- |
-| **Customer Analysis** | Q1: Customers who completed the most bookings. | `` (Page 8) |
+| **Customer Analysis** | Q1: Customers who completed the most bookings. | `` ( ) |
 | | Q3: Busiest day of the week for bookings. | `` (Page 9) |
 | **Driver Performance** | Q1: Drivers with an average rating below 3.0. | `` (Page 9) |
 | | Q2: Top 5 drivers with the longest trips by distance. | `` (Page 10) |
 | | Q3: Drivers with a high percentage of canceled trips. | `` (Page 10) |
-| **Revenue & Business Metrics** | Q1: Total revenue generated in the last 6 months. | `` (Page 11) |
-| | Q3: Correlation between driver ratings and earnings. | `` (Page 12) |
-| **Operational Efficiency** | Q1: Average waiting time for different pickup locations. | `` (Page 13) |
-| | Q2: Most common reasons for trip cancellations. | `` (Page 13) |
-| **Comparative Analysis** | Q3: Weekend vs. weekday bookings and revenue. | `` (Page 16) |
+| **Revenue & Business Metrics** | Q1: Total revenue generated in the last 6 months. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_7%268.png) |
+| | Q2: Identify the most frequently traveled routes. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries_7%268.png) |
+| **Operational Efficiency** | Q1: Average waiting time for different pickup locations. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Cab_CaseStudy_SQL_Queries10%2611.png) | 
+| | Q2: Most common reasons for trip cancellations. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Cab_CaseStudy_SQL_Queries10%2611.png) |
+| **Comparative Analysis** | Q1: Should the company invest in a particular vehicle type | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries13.png) |
 
 ***
 
