@@ -2,14 +2,14 @@
 
 ## **📝 Purpose**
 
-This project, completed as part of my **Masters in Data Science and Analytics with AI from ITVEDANT**, focuses on designing and querying a relational database schema for a cab booking system[cite: 7]. [cite_start]The primary goal is to extract valuable business insights by analyzing customer booking trends, driver performance, and revenue metrics[cite: 6, 9]. By leveraging SQL, this case study provides stakeholders with data-driven insights to optimize operations, improve customer satisfaction, and maximize profitability.
+This project, completed as part of my **Master's in Data Science and Analytics with AI from ITVEDANT**, focuses on designing and querying a relational database schema for a cab booking system. The primary goal is to extract valuable business insights by analyzing customer booking trends, driver performance, and revenue metrics. By leveraging SQL, this case study provides stakeholders with data-driven insights to optimize operations, improve customer satisfaction, and maximize profitability.
 
 ---
 
 ## **🛠️ Tech Stack**
 
-**SQL** (Used for all data querying and analysis [cite: 49])
-**MySQL Workbench** (Database environment used for query execution [cite: 52])
+**SQL** (Used for all data querying and analysis )
+**MySQL Workbench** (Database environment used for query execution)
 
 ## **📂 Data Source**
 
@@ -48,11 +48,11 @@ The analysis provided specific, actionable insights for strategic decision-makin
 
 | Analysis Area | Key Insight | Business Impact |
 | :--- | :--- | :--- |
-| **Peak Demand** | **Monday** and **Tuesday** are the busiest days of the week (9 bookings each)[cite: 293, 294, 295, 296]. | Focus on optimizing **cab availability** and implementing **dynamic pricing** on these days to meet peak demand. |
-| **Driver Performance** | Drivers **Deepak Rao (2.90)** and **Arjun Rana (2.50)** have below-average ratings. | [cite_start]Implement **targeted training programs** to improve the performance and rating of low-rated drivers. |
-| **High Cancellation Risk** | [cite_start]Cancellation reasons like **Driver late**, **Driver unavailable**, and **Traffic jam** are operational issues[cite: 556, 560, 562]. | [cite_start]Address **Driver punctuality** and implement **Dynamic routing/communication** to reduce the likelihood of cancellations. |
-| **Revenue Correlation** | [cite_start]Higher-rated drivers (**Farhan Ali: 4.9, $1000.00**; **Amit Singh: 4.3, $1140.50**) tend to earn higher total fares. | **Incentivize high ratings** as it correlates positively with driver productivity and total revenue. |
-| **Operational Bottlenecks** | [cite_start]**Sion** (4984.00 minutes) and **Lower Parel** (4926.00 minutes) have the longest average waiting times. | Allocate **More cabs** or use **Predictive modeling** to preposition drivers in these high-delay areas to reduce customer wait times. |
+| **Peak Demand** | **Monday** and **Tuesday** are the busiest days of the week (9 bookings each). | Focus on optimizing **cab availability** and implementing **dynamic pricing** on these days to meet peak demand. |
+| **Driver Performance** | Drivers **Deepak Rao (2.90)** and **Arjun Rana (2.50)** have below-average ratings. | Implement **targeted training programs** to improve the performance and rating of low-rated drivers. |
+| **High Cancellation Risk** | Cancellation reasons like **Driver late**, **Driver unavailable**, and **Traffic jam** are operational issues[cite: 556, 560, 562]. | Address **Driver punctuality** and implement **Dynamic routing/communication** to reduce the likelihood of cancellations. |
+| **Revenue Correlation** | Higher-rated drivers (**Farhan Ali: 4.9, $1000.00**; **Amit Singh: 4.3, $1140.50**) tend to earn higher total fares. | **Incentivize high ratings** as it correlates positively with driver productivity and total revenue. |
+| **Operational Bottlenecks** | **Sion** (4984.00 minutes) and **Lower Parel** (4926.00 minutes) have the longest average waiting times. | Allocate **More cabs** or use **Predictive modeling** to preposition drivers in these high-delay areas to reduce customer wait times. |
 | **Demand Differences** | **Weekday bookings** (34 total, $6960.50 revenue) significantly outweigh **Weekend bookings** (11 total, $2000.00 revenue). | Introduce **Dynamic pricing** to capitalize on the higher weekday demand and potentially offer weekend promotions. |
 
 ---
