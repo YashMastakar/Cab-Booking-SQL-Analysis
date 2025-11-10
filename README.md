@@ -86,5 +86,9 @@ This section contains snapshots of the database tables used and the SQL queries 
 | | Q2: Most common reasons for trip cancellations. | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/Cab_CaseStudy_SQL_Queries10%2611.png) |
 | **Comparative Analysis** | Q1: Should the company invest in a particular vehicle type | [link](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/cab_booking_SQL_Queries13.png) |
 
+
+##  ** Licensing **
+This project is released under the **Apache License 2.0**. Please review the ([LICENSE](https://github.com/YashMastakar/Cab-Booking-SQL-Analysis/blob/main/LICENSE)) file for specific terms regarding attribution, liability, and redistribution.
+
 ***
 
