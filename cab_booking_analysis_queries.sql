@@ -79,7 +79,7 @@ FROM Drivers d
 JOIN Cabs c ON d.driver_id = c.driver_id
 JOIN Bookings b ON c.cab_id = b.cab_id
 GROUP BY d.driver_id, d.name
-HAVING cancel_percentage > 0   -- 👈 after GROUP BY
+HAVING cancel_percentage > 0  
 ORDER BY cancel_percentage DESC;
 
 # Revenue & Business Metrics 
